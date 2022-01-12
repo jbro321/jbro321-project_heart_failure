@@ -1,2 +1,2 @@
-# jbro321-project_heart_failure
+# project_heart_failure
 project_heart_failure
